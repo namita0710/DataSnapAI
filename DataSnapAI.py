@@ -649,7 +649,7 @@ class  DataSnapAI:
     
 # Example usage
 if __name__ == "__main__":      
-   api_key = 'AIzaSyB9o0hM7kjZtHRk7u-2zT8HrZxaD6tCvzo'  # Use your actual API key
+   api_key = 'your API key'  # Use your actual API key
    root = tk.Tk()
    extractor = DataSnapAI(api_key,root)
    root.mainloop()
