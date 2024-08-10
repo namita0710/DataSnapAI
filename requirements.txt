@@ -1,0 +1,6 @@
+google.generativeai
+pandas
+numpy
+pillow
+mysql-connector-python
+aiomysql
